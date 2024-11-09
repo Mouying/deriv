@@ -1,0 +1,1001 @@
+ID,Account Number,Upload Date,Completion Date,Status,Categories,Type of Issue,Rejection Reason,Report,Accept/Reject
+1,30855145,2023-10-07,,Pending,Utilities Bill,Others,Non-compliance,,
+2,37120707,2023-07-20,2023-07-26,Complete,Bank Statements,,,,Accepted
+3,62474952,2023-04-11,2023-04-26,Complete,Bank Statements,,,,Accepted
+4,83853634,2023-02-24,2023-03-08,Complete,Other,,,,Accepted
+5,54123031,2023-11-29,2023-12-05,Complete,Utilities Bill,,,,Accepted
+6,13145066,2023-04-21,2023-05-20,Complete,Other,,,,Accepted
+7,95078255,2023-06-30,2023-07-21,Complete,Other,,,,Accepted
+8,12672779,2023-06-06,,Pending,Utilities Bill,AI Generated,Invalid Entry,,
+9,31813193,2023-06-24,2023-07-04,Complete,Bank Statements,,,,Accepted
+10,89858907,2023-09-19,,Pending,Other,Forged,Incomplete Data,,
+11,86776061,2023-04-12,,Pending,Other,Altered,Non-compliance,,
+12,51294732,2023-07-30,,Pending,Bank Statements,Altered,Invalid Entry,,
+13,72298273,2023-08-31,,Pending,Utilities Bill,AI Generated,Incomplete Data,,
+14,57540085,2023-04-20,2023-04-30,Complete,Bank Statements,,,,Accepted
+15,74514169,2023-09-01,,Pending,Bank Statements,Altered,Incomplete Data,,
+16,21355790,2023-08-26,,Pending,Tenancy Agreement,Altered,Incomplete Data,,
+17,63624439,2023-10-09,,Pending,Bank Statements,Forged,Invalid Entry,,
+18,42936466,2023-09-07,2023-09-19,Complete,Bank Statements,,,,Accepted
+19,15417074,2023-12-03,,Pending,Utilities Bill,Altered,Incomplete Data,,
+20,60411771,2023-03-14,2023-03-17,Complete,Bank Statements,,,,Accepted
+21,36117380,2023-07-14,2023-08-05,Complete,Other,,,,Accepted
+22,53748108,2023-07-31,2023-08-16,Complete,Utilities Bill,,,,Accepted
+23,97452951,2023-11-05,2023-11-26,Complete,Utilities Bill,,,,Accepted
+24,67092971,2023-10-17,,Pending,Utilities Bill,Altered,Non-compliance,,
+25,47036945,2023-06-15,,Pending,Utilities Bill,AI Generated,Incomplete Data,,
+26,97503177,2023-03-04,,Pending,Utilities Bill,Forged,Invalid Entry,,
+27,31686527,2023-06-09,2023-06-16,Complete,Utilities Bill,,,,Accepted
+28,50095205,2023-02-12,2023-02-24,Complete,Bank Statements,,,,Accepted
+29,20487547,2023-06-12,2023-07-02,Complete,Utilities Bill,,,,Accepted
+30,72812875,2023-08-11,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+31,56836435,2023-10-20,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+32,63462439,2023-02-13,,Pending,Other,Others,Incomplete Data,,
+33,27981925,2023-11-15,2023-11-29,Complete,Utilities Bill,,,,Accepted
+34,57064932,2023-01-10,,Pending,Other,Altered,Invalid Entry,,
+35,20212905,2023-07-30,2023-08-20,Complete,Bank Statements,,,,Accepted
+36,47736937,2023-03-30,2023-04-14,Complete,Utilities Bill,,,,Accepted
+37,13192128,2023-12-02,2023-12-13,Complete,Bank Statements,,,,Accepted
+38,86295974,2023-12-25,,Pending,Utilities Bill,Altered,Incomplete Data,,
+39,77263814,2023-12-25,2024-01-07,Complete,Utilities Bill,,,,Accepted
+40,67911480,2023-10-06,2023-10-22,Complete,Other,,,,Accepted
+41,82249725,2023-11-07,,Pending,Bank Statements,AI Generated,Incomplete Data,,
+42,81117761,2023-11-13,2023-11-17,Complete,Bank Statements,,,,Accepted
+43,65316978,2023-02-22,,Pending,Bank Statements,AI Generated,Non-compliance,,
+44,69652174,2023-10-14,2023-10-22,Complete,Utilities Bill,,,,Accepted
+45,46257337,2023-09-23,2023-10-02,Complete,Bank Statements,,,,Accepted
+46,51932668,2023-06-29,,Pending,Bank Statements,Altered,Non-compliance,,
+47,77604209,2023-06-18,,Pending,Bank Statements,Others,Incomplete Data,,
+48,56298328,2023-10-24,2023-11-06,Complete,Utilities Bill,,,,Accepted
+49,63272601,2023-09-22,2023-09-24,Complete,Other,,,,Accepted
+50,95380378,2023-02-09,,Pending,Utilities Bill,AI Generated,Incomplete Data,,
+51,70774207,2023-05-24,,Pending,Other,Forged,Invalid Entry,,
+52,93138348,2023-12-23,,Pending,Bank Statements,AI Generated,Non-compliance,,
+53,62007641,2023-05-11,,Pending,Bank Statements,Others,Non-compliance,,
+54,39118183,2023-06-29,2023-07-26,Complete,Utilities Bill,,,,Accepted
+55,45085288,2023-02-12,,Pending,Bank Statements,Forged,Non-compliance,,
+56,55951795,2023-08-08,2023-08-13,Complete,Other,,,,Accepted
+57,97315538,2023-06-21,2023-07-06,Complete,Other,,,,Accepted
+58,27611252,2023-04-22,,Pending,Bank Statements,Altered,Invalid Entry,,
+59,46719334,2023-02-17,,Pending,Other,Others,Invalid Entry,,
+60,88403480,2023-06-04,2023-06-18,Complete,Tenancy Agreement,,,,Accepted
+61,70602298,2023-08-24,2023-09-06,Complete,Tenancy Agreement,,,,Accepted
+62,20184050,2023-02-09,,Pending,Bank Statements,Forged,Invalid Entry,,
+63,15794949,2023-08-18,2023-09-14,Complete,Tenancy Agreement,,,,Accepted
+64,68280631,2023-03-09,,Pending,Bank Statements,Altered,Non-compliance,,
+65,69189779,2023-06-17,,Pending,Other,Altered,Invalid Entry,,
+66,61906871,2023-03-30,,Pending,Tenancy Agreement,Forged,Invalid Entry,,
+67,54787009,2023-05-23,,Pending,Other,AI Generated,Non-compliance,,
+68,63584817,2023-11-07,,Pending,Utilities Bill,Altered,Non-compliance,,
+69,15067896,2023-02-20,,Pending,Bank Statements,Forged,Incomplete Data,,
+70,89588448,2023-12-11,,Pending,Other,Others,Invalid Entry,,
+71,61020218,2023-09-18,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+72,71649591,2023-03-26,,Pending,Other,Forged,Non-compliance,,
+73,63780413,2023-10-20,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+74,98675085,2023-10-27,,Pending,Bank Statements,AI Generated,Incomplete Data,,
+75,92851380,2023-05-22,,Pending,Utilities Bill,Altered,Incomplete Data,,
+76,35924223,2023-11-06,2023-11-22,Complete,Other,,,,Accepted
+77,65372982,2023-02-13,,Pending,Other,Forged,Invalid Entry,,
+78,75948451,2023-05-20,2023-06-15,Complete,Utilities Bill,,,,Accepted
+79,80230105,2023-02-18,2023-03-11,Complete,Tenancy Agreement,,,,Accepted
+80,41016413,2023-12-03,2023-12-15,Complete,Utilities Bill,,,,Accepted
+81,13201247,2023-10-10,2023-11-04,Complete,Tenancy Agreement,,,,Accepted
+82,55347153,2023-09-20,2023-10-14,Complete,Other,,,,Accepted
+83,15250782,2023-03-17,2023-03-31,Complete,Utilities Bill,,,,Accepted
+84,85238563,2023-01-11,2023-01-22,Complete,Tenancy Agreement,,,,Accepted
+85,27933946,2023-05-02,,Pending,Tenancy Agreement,Forged,Non-compliance,,
+86,73014962,2023-10-10,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+87,38316986,2023-05-13,2023-05-18,Complete,Other,,,,Accepted
+88,43195521,2023-04-25,2023-05-04,Complete,Other,,,,Accepted
+89,99540781,2023-09-09,2023-09-19,Complete,Other,,,,Accepted
+90,48798218,2023-09-08,,Pending,Other,Forged,Non-compliance,,
+91,29839731,2023-01-06,,Pending,Bank Statements,Altered,Invalid Entry,,
+92,59310019,2023-12-22,2023-12-30,Complete,Tenancy Agreement,,,,Accepted
+93,59249210,2023-02-23,2023-03-22,Complete,Other,,,,Accepted
+94,54538517,2023-04-16,2023-04-26,Complete,Tenancy Agreement,,,,Accepted
+95,84897175,2023-03-04,2023-03-26,Complete,Other,,,,Accepted
+96,66612229,2023-09-10,,Pending,Bank Statements,Forged,Non-compliance,,
+97,67775339,2023-03-29,2023-04-18,Complete,Other,,,,Accepted
+98,46209490,2023-03-24,2023-04-08,Complete,Tenancy Agreement,,,,Accepted
+99,55642389,2023-11-19,2023-11-22,Complete,Bank Statements,,,,Accepted
+100,54725648,2023-06-02,2023-06-08,Complete,Other,,,,Accepted
+101,93899866,2023-08-12,2023-08-30,Complete,Other,,,,Accepted
+102,96979557,2023-12-30,2024-01-07,Complete,Bank Statements,,,,Accepted
+103,13895159,2023-06-24,,Pending,Other,Altered,Non-compliance,,
+104,20542372,2023-08-12,,Pending,Other,Forged,Non-compliance,,
+105,99136548,2023-10-04,2023-10-24,Complete,Other,,,,Accepted
+106,31929935,2023-11-16,2023-12-11,Complete,Other,,,,Accepted
+107,84633182,2023-01-10,,Pending,Utilities Bill,Forged,Incomplete Data,,
+108,43978787,2023-04-09,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+109,21153441,2023-11-14,2023-11-22,Complete,Utilities Bill,,,,Accepted
+110,62198664,2023-08-16,2023-08-25,Complete,Tenancy Agreement,,,,Accepted
+111,87667190,2023-09-10,,Pending,Other,Altered,Incomplete Data,,
+112,20164793,2023-08-13,2023-09-11,Complete,Other,,,,Accepted
+113,86835254,2023-01-07,,Pending,Tenancy Agreement,Others,Non-compliance,,
+114,57096352,2023-01-11,2023-01-30,Complete,Tenancy Agreement,,,,Accepted
+115,84395936,2023-09-02,2023-09-26,Complete,Other,,,,Accepted
+116,76516894,2023-02-17,,Pending,Tenancy Agreement,AI Generated,Non-compliance,,
+117,32198646,2023-02-26,,Pending,Tenancy Agreement,Altered,Invalid Entry,,
+118,10997344,2023-06-14,,Pending,Other,Forged,Non-compliance,,
+119,11684157,2023-09-21,,Pending,Tenancy Agreement,Others,Invalid Entry,,
+120,59638898,2023-02-04,2023-03-04,Complete,Bank Statements,,,,Accepted
+121,32994586,2023-02-12,2023-02-20,Complete,Bank Statements,,,,Accepted
+122,13024249,2023-09-18,,Pending,Other,Altered,Invalid Entry,,
+123,15437739,2023-12-06,2024-01-01,Complete,Other,,,,Accepted
+124,10504168,2023-08-22,2023-08-29,Complete,Tenancy Agreement,,,,Accepted
+125,89511255,2023-01-09,,Pending,Tenancy Agreement,Altered,Invalid Entry,,
+126,24447795,2023-06-11,2023-07-10,Complete,Bank Statements,,,,Accepted
+127,71435009,2023-01-13,2023-01-29,Complete,Tenancy Agreement,,,,Accepted
+128,69871370,2023-08-19,2023-09-14,Complete,Other,,,,Accepted
+129,88525649,2023-07-08,2023-07-17,Complete,Tenancy Agreement,,,,Accepted
+130,76895842,2023-12-22,,Pending,Other,Forged,Non-compliance,,
+131,37395206,2023-08-01,2023-08-25,Complete,Tenancy Agreement,,,,Accepted
+132,53499226,2023-04-02,2023-04-26,Complete,Utilities Bill,,,,Accepted
+133,20189902,2023-03-24,2023-03-31,Complete,Other,,,,Accepted
+134,93498407,2023-03-26,2023-04-13,Complete,Tenancy Agreement,,,,Accepted
+135,67888668,2023-08-21,2023-09-16,Complete,Bank Statements,,,,Accepted
+136,70385761,2023-09-04,,Pending,Utilities Bill,Altered,Invalid Entry,,
+137,71707913,2023-02-07,,Pending,Other,Altered,Non-compliance,,
+138,34793958,2023-04-12,,Pending,Bank Statements,Forged,Invalid Entry,,
+139,10077464,2023-01-20,2023-02-09,Complete,Tenancy Agreement,,,,Accepted
+140,28709409,2023-02-10,,Pending,Other,Others,Invalid Entry,,
+141,71815608,2023-03-13,,Pending,Bank Statements,Altered,Non-compliance,,
+142,51447772,2023-05-08,,Pending,Utilities Bill,Forged,Invalid Entry,,
+143,26041203,2023-11-09,2023-11-24,Complete,Other,,,,Accepted
+144,63799159,2023-07-15,,Pending,Tenancy Agreement,AI Generated,Non-compliance,,
+145,81186155,2023-08-24,2023-09-09,Complete,Other,,,,Accepted
+146,57069207,2023-03-05,,Pending,Utilities Bill,Others,Non-compliance,,
+147,42257526,2023-12-15,2023-12-23,Complete,Other,,,,Accepted
+148,79128409,2023-11-14,,Pending,Other,Forged,Invalid Entry,,
+149,69868067,2023-06-28,2023-07-27,Complete,Utilities Bill,,,,Accepted
+150,54471291,2023-10-20,,Pending,Bank Statements,Altered,Incomplete Data,,
+151,21410841,2023-08-09,,Pending,Other,AI Generated,Invalid Entry,,
+152,85806713,2023-09-28,2023-10-22,Complete,Tenancy Agreement,,,,Accepted
+153,18836596,2023-10-15,2023-10-18,Complete,Bank Statements,,,,Accepted
+154,11669665,2023-05-27,,Pending,Bank Statements,Altered,Invalid Entry,,
+155,60090410,2023-04-17,,Pending,Utilities Bill,Forged,Incomplete Data,,
+156,47320078,2023-09-26,,Pending,Bank Statements,Others,Incomplete Data,,
+157,63344479,2023-07-26,2023-07-28,Complete,Other,,,,Accepted
+158,20490646,2023-11-13,2023-11-27,Complete,Bank Statements,,,,Accepted
+159,48248807,2023-08-17,,Pending,Utilities Bill,Others,Non-compliance,,
+160,98027508,2023-12-02,2023-12-29,Complete,Other,,,,Accepted
+161,17672860,2023-11-09,,Pending,Bank Statements,Forged,Non-compliance,,
+162,50583610,2023-05-07,2023-05-22,Complete,Tenancy Agreement,,,,Accepted
+163,43811196,2023-08-26,2023-09-10,Complete,Bank Statements,,,,Accepted
+164,23928949,2023-08-13,,Pending,Bank Statements,AI Generated,Incomplete Data,,
+165,68140146,2023-01-14,2023-01-19,Complete,Bank Statements,,,,Accepted
+166,15634530,2023-03-05,2023-04-01,Complete,Other,,,,Accepted
+167,24001979,2023-07-05,,Pending,Bank Statements,Forged,Incomplete Data,,
+168,28830976,2023-01-03,,Pending,Bank Statements,AI Generated,Incomplete Data,,
+169,30411515,2023-06-19,,Pending,Other,Forged,Incomplete Data,,
+170,48589811,2023-02-07,,Pending,Utilities Bill,Altered,Non-compliance,,
+171,30400848,2023-02-23,,Pending,Tenancy Agreement,Altered,Invalid Entry,,
+172,28009509,2023-02-07,2023-02-16,Complete,Tenancy Agreement,,,,Accepted
+173,19728908,2023-02-09,,Pending,Bank Statements,Others,Incomplete Data,,
+174,11234230,2023-09-30,2023-10-18,Complete,Bank Statements,,,,Accepted
+175,56574482,2023-11-29,,Pending,Utilities Bill,AI Generated,Incomplete Data,,
+176,78932035,2023-03-15,,Pending,Bank Statements,Altered,Non-compliance,,
+177,65391257,2023-08-11,,Pending,Bank Statements,Altered,Invalid Entry,,
+178,45056920,2023-05-17,2023-06-02,Complete,Tenancy Agreement,,,,Accepted
+179,38060354,2023-09-27,2023-10-18,Complete,Other,,,,Accepted
+180,17150296,2023-10-23,2023-10-26,Complete,Bank Statements,,,,Accepted
+181,96116991,2023-08-28,2023-09-01,Complete,Tenancy Agreement,,,,Accepted
+182,14897515,2023-12-30,2024-01-14,Complete,Bank Statements,,,,Accepted
+183,11549575,2023-07-20,2023-07-24,Complete,Other,,,,Accepted
+184,99334217,2023-06-28,,Pending,Bank Statements,Forged,Non-compliance,,
+185,77408779,2023-11-15,2023-12-13,Complete,Tenancy Agreement,,,,Accepted
+186,93823279,2023-11-13,2023-11-21,Complete,Bank Statements,,,,Accepted
+187,66731708,2023-08-12,2023-09-07,Complete,Tenancy Agreement,,,,Accepted
+188,67470111,2023-06-02,,Pending,Bank Statements,AI Generated,Incomplete Data,,
+189,80876694,2023-03-13,2023-03-25,Complete,Other,,,,Accepted
+190,28496878,2023-02-13,,Pending,Utilities Bill,AI Generated,Invalid Entry,,
+191,39431954,2023-04-19,2023-05-07,Complete,Other,,,,Accepted
+192,62574345,2023-01-07,,Pending,Bank Statements,Forged,Non-compliance,,
+193,17388596,2023-05-25,2023-05-31,Complete,Tenancy Agreement,,,,Accepted
+194,55447334,2023-05-16,2023-05-18,Complete,Bank Statements,,,,Accepted
+195,92374820,2023-01-23,2023-02-06,Complete,Other,,,,Accepted
+196,79726631,2023-06-02,2023-07-01,Complete,Bank Statements,,,,Accepted
+197,70189728,2023-12-19,2024-01-02,Complete,Bank Statements,,,,Accepted
+198,43239859,2023-09-01,2023-09-07,Complete,Tenancy Agreement,,,,Accepted
+199,22067974,2023-12-03,,Pending,Utilities Bill,Others,Invalid Entry,,
+200,30941839,2023-08-07,,Pending,Tenancy Agreement,Others,Incomplete Data,,
+201,30710890,2023-02-24,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+202,81675273,2023-12-04,2023-12-22,Complete,Other,,,,Accepted
+203,13981748,2023-07-18,2023-08-04,Complete,Utilities Bill,,,,Accepted
+204,33295875,2023-06-30,,Pending,Other,AI Generated,Invalid Entry,,
+205,44364595,2023-08-30,2023-09-25,Complete,Bank Statements,,,,Accepted
+206,21706821,2023-10-14,2023-11-04,Complete,Utilities Bill,,,,Accepted
+207,56902136,2023-08-14,2023-08-20,Complete,Tenancy Agreement,,,,Accepted
+208,53904190,2023-02-11,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+209,64649767,2023-12-26,2024-01-16,Complete,Bank Statements,,,,Accepted
+210,58308395,2023-07-11,,Pending,Bank Statements,Others,Invalid Entry,,
+211,75677816,2023-04-01,2023-04-09,Complete,Tenancy Agreement,,,,Accepted
+212,66891089,2023-11-13,2023-12-01,Complete,Bank Statements,,,,Accepted
+213,18771230,2023-04-22,2023-05-18,Complete,Bank Statements,,,,Accepted
+214,34443594,2023-12-28,2024-01-24,Complete,Other,,,,Accepted
+215,48634159,2023-08-17,,Pending,Other,AI Generated,Non-compliance,,
+216,71225639,2023-07-16,2023-08-13,Complete,Tenancy Agreement,,,,Accepted
+217,45825149,2023-09-02,2023-09-29,Complete,Bank Statements,,,,Accepted
+218,67975512,2023-01-30,,Pending,Other,AI Generated,Non-compliance,,
+219,90141414,2023-03-24,2023-04-14,Complete,Tenancy Agreement,,,,Accepted
+220,58916801,2023-01-22,2023-02-09,Complete,Tenancy Agreement,,,,Accepted
+221,43866834,2023-12-28,2024-01-11,Complete,Bank Statements,,,,Accepted
+222,78700929,2023-12-15,,Pending,Bank Statements,AI Generated,Invalid Entry,,
+223,91274960,2023-01-23,2023-02-15,Complete,Bank Statements,,,,Accepted
+224,70193629,2023-10-21,2023-11-01,Complete,Other,,,,Accepted
+225,76921165,2023-07-29,,Pending,Bank Statements,AI Generated,Non-compliance,,
+226,52178365,2023-12-29,,Pending,Bank Statements,Altered,Invalid Entry,,
+227,37035271,2023-03-03,,Pending,Other,Others,Incomplete Data,,
+228,45469563,2023-05-26,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+229,63355401,2023-12-11,,Pending,Tenancy Agreement,Others,Incomplete Data,,
+230,40190003,2023-10-16,,Pending,Tenancy Agreement,Forged,Incomplete Data,,
+231,64351620,2023-08-11,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+232,98213089,2023-07-04,2023-08-03,Complete,Tenancy Agreement,,,,Accepted
+233,83249698,2023-07-06,2023-07-14,Complete,Utilities Bill,,,,Accepted
+234,41129162,2023-12-01,,Pending,Utilities Bill,Others,Incomplete Data,,
+235,97885592,2023-04-17,,Pending,Bank Statements,AI Generated,Invalid Entry,,
+236,38516187,2023-01-30,2023-02-12,Complete,Utilities Bill,,,,Accepted
+237,37612676,2023-01-21,,Pending,Utilities Bill,AI Generated,Incomplete Data,,
+238,39996050,2023-12-11,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+239,73892425,2023-08-07,,Pending,Other,Forged,Incomplete Data,,
+240,72598309,2023-09-01,,Pending,Tenancy Agreement,Altered,Incomplete Data,,
+241,54708592,2023-06-25,2023-07-04,Complete,Utilities Bill,,,,Accepted
+242,10048560,2023-04-27,2023-05-08,Complete,Other,,,,Accepted
+243,51937046,2023-08-23,,Pending,Tenancy Agreement,Forged,Non-compliance,,
+244,14434305,2023-02-19,,Pending,Other,Forged,Incomplete Data,,
+245,82787806,2023-05-23,2023-05-25,Complete,Bank Statements,,,,Accepted
+246,24249188,2023-10-25,2023-11-07,Complete,Bank Statements,,,,Accepted
+247,42273892,2023-03-23,,Pending,Other,AI Generated,Non-compliance,,
+248,48861196,2023-02-12,,Pending,Bank Statements,AI Generated,Incomplete Data,,
+249,69270743,2023-11-19,2023-12-01,Complete,Other,,,,Accepted
+250,19222767,2023-09-16,2023-09-27,Complete,Utilities Bill,,,,Accepted
+251,20451339,2023-05-04,2023-05-18,Complete,Utilities Bill,,,,Accepted
+252,41742047,2023-02-17,,Pending,Other,Others,Non-compliance,,
+253,11353042,2023-10-07,2023-10-23,Complete,Tenancy Agreement,,,,Accepted
+254,38225648,2023-10-15,2023-10-31,Complete,Bank Statements,,,,Accepted
+255,31487402,2023-07-20,2023-08-05,Complete,Utilities Bill,,,,Accepted
+256,62867599,2023-03-04,,Pending,Utilities Bill,Altered,Non-compliance,,
+257,20828499,2023-12-19,2023-12-30,Complete,Utilities Bill,,,,Accepted
+258,31016116,2023-03-25,2023-04-17,Complete,Bank Statements,,,,Accepted
+259,47279082,2023-10-10,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+260,61405975,2023-01-12,,Pending,Bank Statements,Altered,Incomplete Data,,
+261,33419692,2023-02-17,,Pending,Tenancy Agreement,Forged,Non-compliance,,
+262,21885313,2023-04-18,,Pending,Other,Others,Non-compliance,,
+263,78579037,2023-08-24,,Pending,Utilities Bill,Altered,Non-compliance,,
+264,13700777,2023-06-10,,Pending,Utilities Bill,Others,Invalid Entry,,
+265,23260891,2023-04-09,2023-05-07,Complete,Bank Statements,,,,Accepted
+266,68462081,2023-12-01,2023-12-17,Complete,Utilities Bill,,,,Accepted
+267,27392397,2023-10-12,2023-10-13,Complete,Other,,,,Accepted
+268,71611584,2023-03-02,,Pending,Bank Statements,Forged,Incomplete Data,,
+269,86095662,2023-10-15,,Pending,Tenancy Agreement,Altered,Invalid Entry,,
+270,45484606,2023-06-09,,Pending,Bank Statements,Altered,Invalid Entry,,
+271,57440997,2023-04-08,,Pending,Utilities Bill,Others,Incomplete Data,,
+272,72385407,2023-05-06,,Pending,Tenancy Agreement,Others,Invalid Entry,,
+273,54097733,2023-04-26,2023-05-22,Complete,Utilities Bill,,,,Accepted
+274,48661226,2023-04-29,2023-05-28,Complete,Tenancy Agreement,,,,Accepted
+275,94615606,2023-10-04,2023-10-25,Complete,Utilities Bill,,,,Accepted
+276,97677588,2023-01-29,,Pending,Other,Others,Non-compliance,,
+277,50695210,2023-01-27,2023-01-30,Complete,Utilities Bill,,,,Accepted
+278,62116524,2023-12-26,,Pending,Tenancy Agreement,Altered,Incomplete Data,,
+279,43466789,2023-05-31,,Pending,Other,AI Generated,Invalid Entry,,
+280,84428042,2023-04-17,,Pending,Tenancy Agreement,Altered,Incomplete Data,,
+281,85623606,2023-10-05,2023-10-26,Complete,Tenancy Agreement,,,,Accepted
+282,32707421,2023-01-23,,Pending,Utilities Bill,Forged,Non-compliance,,
+283,15837625,2023-05-10,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+284,70549831,2023-02-23,,Pending,Tenancy Agreement,Others,Incomplete Data,,
+285,24911008,2023-07-19,,Pending,Tenancy Agreement,Forged,Non-compliance,,
+286,43206009,2023-07-08,,Pending,Other,AI Generated,Invalid Entry,,
+287,74326650,2023-01-09,2023-01-22,Complete,Utilities Bill,,,,Accepted
+288,82655207,2023-09-17,2023-09-30,Complete,Utilities Bill,,,,Accepted
+289,59011888,2023-03-31,2023-04-09,Complete,Tenancy Agreement,,,,Accepted
+290,97046384,2023-12-27,2024-01-02,Complete,Tenancy Agreement,,,,Accepted
+291,27328388,2023-04-12,2023-05-07,Complete,Utilities Bill,,,,Accepted
+292,46664612,2023-09-07,2023-09-18,Complete,Tenancy Agreement,,,,Accepted
+293,16039083,2023-05-27,,Pending,Utilities Bill,Others,Invalid Entry,,
+294,45333535,2023-12-09,,Pending,Other,Forged,Invalid Entry,,
+295,75782133,2023-04-13,,Pending,Bank Statements,Altered,Incomplete Data,,
+296,93636388,2023-03-06,,Pending,Bank Statements,Others,Incomplete Data,,
+297,33385595,2023-11-29,2023-12-01,Complete,Utilities Bill,,,,Accepted
+298,72609183,2023-11-24,,Pending,Bank Statements,Others,Invalid Entry,,
+299,91599248,2023-02-25,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+300,74925825,2023-08-10,2023-08-31,Complete,Bank Statements,,,,Accepted
+301,33682293,2023-01-15,2023-01-23,Complete,Utilities Bill,,,,Accepted
+302,70118014,2023-03-27,,Pending,Bank Statements,AI Generated,Non-compliance,,
+303,82791594,2023-04-15,,Pending,Other,Forged,Invalid Entry,,
+304,84602401,2023-11-08,2023-11-25,Complete,Tenancy Agreement,,,,Accepted
+305,21565132,2023-01-27,2023-02-02,Complete,Bank Statements,,,,Accepted
+306,39055201,2023-03-18,2023-04-05,Complete,Tenancy Agreement,,,,Accepted
+307,67283032,2023-08-08,2023-08-29,Complete,Other,,,,Accepted
+308,38769857,2023-02-20,,Pending,Bank Statements,Altered,Invalid Entry,,
+309,81516467,2023-01-02,2023-01-28,Complete,Tenancy Agreement,,,,Accepted
+310,29019268,2023-04-20,2023-05-09,Complete,Utilities Bill,,,,Accepted
+311,76451067,2023-03-15,2023-04-07,Complete,Bank Statements,,,,Accepted
+312,64004423,2023-09-14,2023-09-30,Complete,Utilities Bill,,,,Accepted
+313,11117584,2023-06-18,,Pending,Utilities Bill,Forged,Non-compliance,,
+314,40475964,2023-10-02,2023-10-26,Complete,Utilities Bill,,,,Accepted
+315,74858550,2023-09-09,2023-09-15,Complete,Tenancy Agreement,,,,Accepted
+316,18774794,2023-03-16,,Pending,Tenancy Agreement,Altered,Incomplete Data,,
+317,27826929,2023-07-04,2023-07-05,Complete,Utilities Bill,,,,Accepted
+318,79488277,2023-02-22,,Pending,Other,AI Generated,Invalid Entry,,
+319,77776298,2023-12-22,,Pending,Bank Statements,Others,Invalid Entry,,
+320,38618814,2023-11-15,2023-12-15,Complete,Utilities Bill,,,,Accepted
+321,36535064,2023-10-15,,Pending,Tenancy Agreement,Others,Incomplete Data,,
+322,16833528,2023-11-07,,Pending,Utilities Bill,Altered,Incomplete Data,,
+323,51389882,2023-11-15,,Pending,Utilities Bill,Altered,Non-compliance,,
+324,45822672,2023-11-29,2023-12-12,Complete,Bank Statements,,,,Accepted
+325,75233291,2023-07-30,2023-08-22,Complete,Utilities Bill,,,,Accepted
+326,32203881,2023-08-09,,Pending,Utilities Bill,Others,Invalid Entry,,
+327,88540936,2023-08-11,,Pending,Tenancy Agreement,Forged,Incomplete Data,,
+328,43590227,2023-07-22,2023-07-28,Complete,Other,,,,Accepted
+329,84392713,2023-03-01,2023-03-27,Complete,Utilities Bill,,,,Accepted
+330,59476855,2023-09-25,,Pending,Bank Statements,Altered,Invalid Entry,,
+331,85186538,2023-07-06,,Pending,Utilities Bill,Others,Incomplete Data,,
+332,91207993,2023-03-21,2023-04-03,Complete,Tenancy Agreement,,,,Accepted
+333,93183361,2023-06-22,,Pending,Tenancy Agreement,Forged,Non-compliance,,
+334,42420180,2023-07-29,,Pending,Other,Others,Invalid Entry,,
+335,81119556,2023-11-02,,Pending,Utilities Bill,Altered,Incomplete Data,,
+336,62316085,2023-03-30,2023-04-05,Complete,Utilities Bill,,,,Accepted
+337,91435943,2023-12-15,,Pending,Tenancy Agreement,Others,Incomplete Data,,
+338,94943491,2023-12-03,,Pending,Tenancy Agreement,Forged,Incomplete Data,,
+339,15732400,2023-04-21,2023-05-13,Complete,Tenancy Agreement,,,,Accepted
+340,33469273,2023-11-26,,Pending,Utilities Bill,Forged,Incomplete Data,,
+341,51292112,2023-08-08,2023-08-14,Complete,Bank Statements,,,,Accepted
+342,16474801,2023-12-24,2023-12-25,Complete,Other,,,,Accepted
+343,66629621,2023-08-30,2023-09-02,Complete,Bank Statements,,,,Accepted
+344,41976283,2023-10-06,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+345,31330161,2023-01-20,2023-02-18,Complete,Other,,,,Accepted
+346,11839505,2023-11-10,,Pending,Bank Statements,AI Generated,Invalid Entry,,
+347,12766910,2023-09-25,,Pending,Other,Others,Invalid Entry,,
+348,11020292,2023-03-09,2023-03-12,Complete,Utilities Bill,,,,Accepted
+349,82297369,2023-03-05,,Pending,Bank Statements,AI Generated,Non-compliance,,
+350,20374933,2023-02-04,,Pending,Other,Forged,Incomplete Data,,
+351,68787421,2023-09-19,,Pending,Bank Statements,Forged,Invalid Entry,,
+352,16686601,2023-10-14,,Pending,Tenancy Agreement,Altered,Invalid Entry,,
+353,56429349,2023-08-19,2023-08-25,Complete,Bank Statements,,,,Accepted
+354,59597795,2023-09-01,,Pending,Other,Altered,Incomplete Data,,
+355,43246155,2023-03-10,,Pending,Utilities Bill,Others,Invalid Entry,,
+356,70304558,2023-04-30,2023-05-03,Complete,Bank Statements,,,,Accepted
+357,97612235,2023-05-23,,Pending,Tenancy Agreement,Forged,Invalid Entry,,
+358,56957385,2023-11-09,,Pending,Other,Forged,Incomplete Data,,
+359,33703560,2023-08-02,,Pending,Tenancy Agreement,Forged,Non-compliance,,
+360,26713196,2023-08-22,2023-09-06,Complete,Other,,,,Accepted
+361,62322940,2023-06-12,2023-06-24,Complete,Utilities Bill,,,,Accepted
+362,87894949,2023-09-22,2023-09-27,Complete,Tenancy Agreement,,,,Accepted
+363,89061590,2023-12-30,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+364,62057143,2023-10-17,2023-10-22,Complete,Other,,,,Accepted
+365,70936480,2023-11-09,,Pending,Bank Statements,Altered,Non-compliance,,
+366,39199535,2023-03-15,,Pending,Bank Statements,Others,Invalid Entry,,
+367,42177039,2023-10-21,2023-11-20,Complete,Bank Statements,,,,Accepted
+368,23056503,2023-03-14,,Pending,Bank Statements,Forged,Non-compliance,,
+369,24640535,2023-05-20,,Pending,Other,Others,Non-compliance,,
+370,62774708,2023-02-02,,Pending,Bank Statements,Altered,Non-compliance,,
+371,43341031,2023-09-23,2023-09-29,Complete,Other,,,,Accepted
+372,48315360,2023-03-26,2023-03-29,Complete,Bank Statements,,,,Accepted
+373,93999816,2023-04-10,2023-05-05,Complete,Utilities Bill,,,,Accepted
+374,70888435,2023-01-13,2023-02-02,Complete,Utilities Bill,,,,Accepted
+375,88256155,2023-06-14,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+376,94821417,2023-11-07,,Pending,Tenancy Agreement,Forged,Invalid Entry,,
+377,75932099,2023-11-14,2023-12-05,Complete,Tenancy Agreement,,,,Accepted
+378,47220378,2023-12-19,,Pending,Tenancy Agreement,Others,Non-compliance,,
+379,73398092,2023-11-03,,Pending,Tenancy Agreement,Others,Incomplete Data,,
+380,15892208,2023-10-02,2023-10-31,Complete,Other,,,,Accepted
+381,27993997,2023-04-16,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+382,57936361,2023-11-03,,Pending,Utilities Bill,Forged,Incomplete Data,,
+383,55700229,2023-06-06,,Pending,Tenancy Agreement,Others,Non-compliance,,
+384,49014408,2023-07-26,,Pending,Bank Statements,Others,Incomplete Data,,
+385,40594837,2023-01-07,2023-01-12,Complete,Tenancy Agreement,,,,Accepted
+386,78302470,2023-12-05,,Pending,Tenancy Agreement,Altered,Invalid Entry,,
+387,99233933,2023-03-14,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+388,79153639,2023-11-23,2023-12-07,Complete,Bank Statements,,,,Accepted
+389,61675422,2023-06-14,2023-06-15,Complete,Tenancy Agreement,,,,Accepted
+390,71443463,2023-03-28,2023-04-23,Complete,Utilities Bill,,,,Accepted
+391,60197147,2023-10-09,2023-10-20,Complete,Bank Statements,,,,Accepted
+392,37093505,2023-06-21,2023-07-16,Complete,Tenancy Agreement,,,,Accepted
+393,74910552,2023-02-03,,Pending,Utilities Bill,Altered,Incomplete Data,,
+394,81147673,2023-03-08,,Pending,Other,Altered,Non-compliance,,
+395,25598253,2023-11-04,2023-11-26,Complete,Utilities Bill,,,,Accepted
+396,46959663,2023-10-27,,Pending,Bank Statements,Forged,Non-compliance,,
+397,64037333,2023-06-03,,Pending,Other,AI Generated,Incomplete Data,,
+398,39148254,2023-10-03,,Pending,Tenancy Agreement,AI Generated,Non-compliance,,
+399,77842488,2023-08-24,2023-08-31,Complete,Utilities Bill,,,,Accepted
+400,15497702,2023-02-11,,Pending,Utilities Bill,Others,Invalid Entry,,
+401,95821994,2023-09-21,,Pending,Utilities Bill,AI Generated,Invalid Entry,,
+402,96510480,2023-01-01,2023-01-19,Complete,Utilities Bill,,,,Accepted
+403,26195888,2023-03-10,,Pending,Other,Others,Invalid Entry,,
+404,44753742,2023-06-27,,Pending,Other,AI Generated,Invalid Entry,,
+405,98938890,2023-10-12,,Pending,Bank Statements,Forged,Non-compliance,,
+406,37779880,2023-11-14,,Pending,Utilities Bill,AI Generated,Invalid Entry,,
+407,80785896,2023-03-12,,Pending,Other,Altered,Invalid Entry,,
+408,80231665,2023-06-13,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+409,93522704,2023-03-14,,Pending,Tenancy Agreement,Forged,Invalid Entry,,
+410,55629980,2023-03-21,,Pending,Utilities Bill,Altered,Incomplete Data,,
+411,85318238,2023-12-10,2024-01-07,Complete,Other,,,,Accepted
+412,61116931,2023-03-02,,Pending,Utilities Bill,AI Generated,Incomplete Data,,
+413,21657032,2023-07-03,2023-07-16,Complete,Other,,,,Accepted
+414,86792716,2023-12-16,2023-12-26,Complete,Other,,,,Accepted
+415,39264553,2023-04-25,2023-05-02,Complete,Bank Statements,,,,Accepted
+416,36257900,2023-12-05,2023-12-15,Complete,Utilities Bill,,,,Accepted
+417,60045424,2023-04-22,,Pending,Other,Altered,Non-compliance,,
+418,26944618,2023-08-05,2023-08-10,Complete,Tenancy Agreement,,,,Accepted
+419,72938358,2023-11-12,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+420,32588490,2023-12-24,,Pending,Other,Others,Invalid Entry,,
+421,45013034,2023-01-07,2023-01-27,Complete,Bank Statements,,,,Accepted
+422,64542970,2023-06-25,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+423,68152475,2023-03-25,,Pending,Utilities Bill,Altered,Non-compliance,,
+424,89519241,2023-10-13,2023-10-24,Complete,Tenancy Agreement,,,,Accepted
+425,43148953,2023-12-30,2024-01-14,Complete,Other,,,,Accepted
+426,63293798,2023-03-05,,Pending,Bank Statements,Forged,Non-compliance,,
+427,99028859,2023-02-26,2023-03-27,Complete,Bank Statements,,,,Accepted
+428,27512990,2023-07-31,2023-08-01,Complete,Utilities Bill,,,,Accepted
+429,40865759,2023-12-30,2024-01-23,Complete,Bank Statements,,,,Accepted
+430,98845067,2023-06-13,2023-07-05,Complete,Other,,,,Accepted
+431,43389560,2023-11-04,2023-11-20,Complete,Tenancy Agreement,,,,Accepted
+432,80796312,2023-06-18,2023-07-01,Complete,Bank Statements,,,,Accepted
+433,79748563,2023-02-05,2023-02-10,Complete,Bank Statements,,,,Accepted
+434,75133018,2023-04-23,2023-04-27,Complete,Other,,,,Accepted
+435,31896965,2023-11-17,2023-12-04,Complete,Bank Statements,,,,Accepted
+436,48710339,2023-03-31,,Pending,Utilities Bill,Altered,Invalid Entry,,
+437,22171854,2023-01-28,2023-02-01,Complete,Bank Statements,,,,Accepted
+438,45331379,2023-03-09,2023-03-11,Complete,Tenancy Agreement,,,,Accepted
+439,52086582,2023-05-19,2023-05-26,Complete,Utilities Bill,,,,Accepted
+440,25937385,2023-11-29,,Pending,Other,Others,Non-compliance,,
+441,27968685,2023-02-23,2023-02-28,Complete,Bank Statements,,,,Accepted
+442,80848361,2023-12-28,2024-01-10,Complete,Tenancy Agreement,,,,Accepted
+443,77842154,2023-08-26,,Pending,Utilities Bill,Others,Invalid Entry,,
+444,50383229,2023-05-26,2023-06-18,Complete,Bank Statements,,,,Accepted
+445,62360104,2023-01-31,,Pending,Tenancy Agreement,Others,Incomplete Data,,
+446,57229185,2023-12-12,,Pending,Other,Forged,Non-compliance,,
+447,43831552,2023-06-16,2023-07-03,Complete,Bank Statements,,,,Accepted
+448,83417469,2023-02-25,,Pending,Bank Statements,AI Generated,Non-compliance,,
+449,90444975,2023-09-10,,Pending,Other,Forged,Incomplete Data,,
+450,42221328,2023-11-01,,Pending,Other,Others,Incomplete Data,,
+451,13521088,2023-09-17,,Pending,Other,Altered,Incomplete Data,,
+452,83231724,2023-04-27,2023-05-19,Complete,Other,,,,Accepted
+453,59046339,2023-08-02,2023-08-15,Complete,Other,,,,Accepted
+454,46337427,2023-10-27,2023-11-19,Complete,Utilities Bill,,,,Accepted
+455,14235043,2023-02-24,2023-03-14,Complete,Bank Statements,,,,Accepted
+456,87376036,2023-02-04,,Pending,Bank Statements,AI Generated,Non-compliance,,
+457,95785625,2023-11-05,2023-11-15,Complete,Bank Statements,,,,Accepted
+458,23723560,2023-02-01,2023-03-02,Complete,Bank Statements,,,,Accepted
+459,66147207,2023-11-01,,Pending,Utilities Bill,Forged,Non-compliance,,
+460,83121319,2023-07-22,2023-08-18,Complete,Utilities Bill,,,,Accepted
+461,64227086,2023-07-01,2023-07-28,Complete,Tenancy Agreement,,,,Accepted
+462,84875741,2023-09-25,2023-10-02,Complete,Utilities Bill,,,,Accepted
+463,81290549,2023-11-15,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+464,45356839,2023-12-19,2024-01-03,Complete,Tenancy Agreement,,,,Accepted
+465,68520112,2023-07-22,2023-07-25,Complete,Other,,,,Accepted
+466,40152186,2023-12-11,2023-12-12,Complete,Bank Statements,,,,Accepted
+467,11529427,2023-12-19,2023-12-26,Complete,Other,,,,Accepted
+468,37255403,2023-08-21,2023-09-09,Complete,Utilities Bill,,,,Accepted
+469,25324833,2023-04-04,,Pending,Bank Statements,Others,Invalid Entry,,
+470,64882476,2023-10-04,,Pending,Bank Statements,Others,Incomplete Data,,
+471,76680296,2023-11-29,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+472,96021808,2023-11-22,,Pending,Bank Statements,Others,Invalid Entry,,
+473,97547094,2023-01-31,,Pending,Bank Statements,AI Generated,Incomplete Data,,
+474,74279779,2023-12-22,2023-12-28,Complete,Bank Statements,,,,Accepted
+475,24670182,2023-04-19,,Pending,Tenancy Agreement,Others,Incomplete Data,,
+476,60639693,2023-01-05,2023-01-12,Complete,Other,,,,Accepted
+477,82483556,2023-09-24,,Pending,Tenancy Agreement,Forged,Invalid Entry,,
+478,57571635,2023-04-12,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+479,32353825,2023-12-21,,Pending,Other,Others,Incomplete Data,,
+480,15587058,2023-08-06,,Pending,Other,Others,Invalid Entry,,
+481,63284863,2023-08-05,2023-09-04,Complete,Tenancy Agreement,,,,Accepted
+482,43140455,2023-12-25,,Pending,Bank Statements,Others,Non-compliance,,
+483,91606920,2023-10-10,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+484,56630552,2023-06-01,,Pending,Other,Others,Invalid Entry,,
+485,48136812,2023-12-01,,Pending,Other,Others,Non-compliance,,
+486,60099988,2023-03-20,,Pending,Bank Statements,Forged,Non-compliance,,
+487,77186165,2023-10-19,2023-11-11,Complete,Other,,,,Accepted
+488,98221424,2023-05-19,,Pending,Other,Altered,Non-compliance,,
+489,70562607,2023-04-17,,Pending,Bank Statements,Others,Invalid Entry,,
+490,49300955,2023-09-18,2023-10-04,Complete,Bank Statements,,,,Accepted
+491,85885953,2023-04-26,2023-05-24,Complete,Utilities Bill,,,,Accepted
+492,30154396,2023-05-09,,Pending,Tenancy Agreement,Others,Invalid Entry,,
+493,31170684,2023-10-26,,Pending,Bank Statements,AI Generated,Invalid Entry,,
+494,14140727,2023-03-03,,Pending,Bank Statements,Altered,Invalid Entry,,
+495,67442154,2023-11-06,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+496,31375038,2023-11-22,,Pending,Bank Statements,AI Generated,Non-compliance,,
+497,99396640,2023-04-22,,Pending,Utilities Bill,Altered,Non-compliance,,
+498,12473500,2023-04-06,,Pending,Other,Forged,Invalid Entry,,
+499,12516239,2023-07-28,,Pending,Utilities Bill,Forged,Invalid Entry,,
+500,79523732,2023-05-12,2023-06-08,Complete,Other,,,,Accepted
+501,91887763,2023-08-06,,Pending,Bank Statements,AI Generated,Invalid Entry,,
+502,35082362,2023-02-04,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+503,56074091,2023-06-15,,Pending,Other,Altered,Invalid Entry,,
+504,69119229,2023-04-08,2023-05-05,Complete,Utilities Bill,,,,Accepted
+505,61432002,2023-03-09,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+506,77225015,2023-08-10,,Pending,Other,Forged,Invalid Entry,,
+507,73531886,2023-01-19,2023-02-12,Complete,Tenancy Agreement,,,,Accepted
+508,96648710,2023-03-15,,Pending,Utilities Bill,Others,Non-compliance,,
+509,32762639,2023-07-25,2023-08-19,Complete,Other,,,,Accepted
+510,39868806,2023-09-08,,Pending,Other,Forged,Invalid Entry,,
+511,67414431,2023-12-27,,Pending,Other,AI Generated,Invalid Entry,,
+512,79539671,2023-05-18,,Pending,Other,Forged,Non-compliance,,
+513,65428875,2023-11-12,2023-11-14,Complete,Other,,,,Accepted
+514,54397153,2023-05-04,2023-05-19,Complete,Utilities Bill,,,,Accepted
+515,91879045,2023-05-24,2023-06-13,Complete,Utilities Bill,,,,Accepted
+516,93847795,2023-06-19,2023-06-29,Complete,Bank Statements,,,,Accepted
+517,49588002,2023-03-08,2023-03-25,Complete,Tenancy Agreement,,,,Accepted
+518,78872225,2023-04-26,2023-05-24,Complete,Tenancy Agreement,,,,Accepted
+519,15248795,2023-03-11,2023-03-22,Complete,Utilities Bill,,,,Accepted
+520,60484471,2023-07-30,2023-08-04,Complete,Utilities Bill,,,,Accepted
+521,72875993,2023-05-31,2023-06-14,Complete,Bank Statements,,,,Accepted
+522,89951412,2023-08-15,2023-08-23,Complete,Other,,,,Accepted
+523,86817384,2023-07-09,2023-08-01,Complete,Other,,,,Accepted
+524,93595322,2023-04-25,2023-05-13,Complete,Tenancy Agreement,,,,Accepted
+525,74458336,2023-07-08,2023-07-24,Complete,Other,,,,Accepted
+526,17608351,2023-03-19,2023-04-13,Complete,Bank Statements,,,,Accepted
+527,88511907,2023-02-08,,Pending,Tenancy Agreement,AI Generated,Non-compliance,,
+528,35942624,2023-04-15,,Pending,Tenancy Agreement,Altered,Incomplete Data,,
+529,84028846,2023-11-11,2023-11-22,Complete,Other,,,,Accepted
+530,67235499,2023-10-19,,Pending,Tenancy Agreement,Others,Invalid Entry,,
+531,39525825,2023-05-29,2023-06-24,Complete,Utilities Bill,,,,Accepted
+532,14730647,2023-05-25,2023-06-05,Complete,Bank Statements,,,,Accepted
+533,73660909,2023-05-21,2023-06-11,Complete,Tenancy Agreement,,,,Accepted
+534,53694318,2023-01-31,,Pending,Bank Statements,Forged,Incomplete Data,,
+535,42444520,2023-12-17,2024-01-04,Complete,Utilities Bill,,,,Accepted
+536,16074899,2023-10-05,,Pending,Tenancy Agreement,Forged,Invalid Entry,,
+537,53600109,2023-01-25,2023-02-20,Complete,Tenancy Agreement,,,,Accepted
+538,75042908,2023-09-07,2023-09-21,Complete,Other,,,,Accepted
+539,90334757,2023-11-19,,Pending,Bank Statements,AI Generated,Incomplete Data,,
+540,32460452,2023-08-05,,Pending,Tenancy Agreement,Others,Invalid Entry,,
+541,30531809,2023-04-26,,Pending,Tenancy Agreement,Others,Non-compliance,,
+542,47493008,2023-07-06,2023-07-26,Complete,Bank Statements,,,,Accepted
+543,77035328,2023-04-28,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+544,77826505,2023-05-08,2023-05-26,Complete,Bank Statements,,,,Accepted
+545,90012209,2023-08-27,2023-09-10,Complete,Bank Statements,,,,Accepted
+546,49007412,2023-10-13,2023-10-27,Complete,Tenancy Agreement,,,,Accepted
+547,73715731,2023-09-27,,Pending,Tenancy Agreement,Altered,Invalid Entry,,
+548,10405384,2023-08-21,2023-09-10,Complete,Other,,,,Accepted
+549,96897428,2023-04-14,,Pending,Other,Forged,Incomplete Data,,
+550,72074387,2023-02-19,,Pending,Utilities Bill,Altered,Incomplete Data,,
+551,80616901,2023-10-19,,Pending,Bank Statements,Forged,Non-compliance,,
+552,72512843,2023-06-26,,Pending,Utilities Bill,Others,Non-compliance,,
+553,17402455,2023-12-16,,Pending,Other,Altered,Non-compliance,,
+554,17343725,2023-06-30,2023-07-19,Complete,Tenancy Agreement,,,,Accepted
+555,57657088,2023-12-28,,Pending,Other,Others,Non-compliance,,
+556,40675348,2023-09-11,2023-09-16,Complete,Tenancy Agreement,,,,Accepted
+557,35509859,2023-09-02,,Pending,Utilities Bill,Altered,Incomplete Data,,
+558,78209671,2023-08-10,,Pending,Utilities Bill,Others,Incomplete Data,,
+559,27180063,2023-08-18,2023-08-23,Complete,Utilities Bill,,,,Accepted
+560,52149641,2023-07-23,,Pending,Utilities Bill,AI Generated,Invalid Entry,,
+561,25205669,2023-10-21,2023-10-31,Complete,Tenancy Agreement,,,,Accepted
+562,29141251,2023-12-01,2023-12-25,Complete,Other,,,,Accepted
+563,10966727,2023-07-09,2023-07-28,Complete,Tenancy Agreement,,,,Accepted
+564,54294919,2023-01-10,2023-01-22,Complete,Utilities Bill,,,,Accepted
+565,17903728,2023-05-08,2023-05-26,Complete,Bank Statements,,,,Accepted
+566,67440265,2023-05-18,2023-05-22,Complete,Other,,,,Accepted
+567,29220926,2023-04-14,,Pending,Utilities Bill,AI Generated,Invalid Entry,,
+568,57519713,2023-10-16,2023-11-04,Complete,Other,,,,Accepted
+569,66986925,2023-10-29,2023-11-17,Complete,Tenancy Agreement,,,,Accepted
+570,81914782,2023-10-06,,Pending,Utilities Bill,Others,Non-compliance,,
+571,19788620,2023-01-03,2023-01-24,Complete,Tenancy Agreement,,,,Accepted
+572,40307364,2023-04-03,,Pending,Utilities Bill,Altered,Incomplete Data,,
+573,14765079,2023-05-29,,Pending,Utilities Bill,Forged,Invalid Entry,,
+574,40023765,2023-06-05,2023-07-05,Complete,Tenancy Agreement,,,,Accepted
+575,68895049,2023-09-17,2023-10-11,Complete,Other,,,,Accepted
+576,59071655,2023-08-03,,Pending,Other,Others,Non-compliance,,
+577,50920084,2023-08-21,,Pending,Other,Altered,Invalid Entry,,
+578,32539201,2023-05-15,2023-06-14,Complete,Utilities Bill,,,,Accepted
+579,96633877,2023-08-20,,Pending,Utilities Bill,AI Generated,Incomplete Data,,
+580,38507246,2023-07-23,2023-08-06,Complete,Other,,,,Accepted
+581,22827476,2023-04-22,2023-05-16,Complete,Tenancy Agreement,,,,Accepted
+582,56943894,2023-01-05,,Pending,Bank Statements,Altered,Incomplete Data,,
+583,22373046,2023-05-25,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+584,93043130,2023-12-20,,Pending,Other,Altered,Incomplete Data,,
+585,52480727,2023-11-12,,Pending,Utilities Bill,Others,Incomplete Data,,
+586,99492278,2023-04-14,2023-04-18,Complete,Utilities Bill,,,,Accepted
+587,72993347,2023-07-13,2023-07-30,Complete,Tenancy Agreement,,,,Accepted
+588,42936915,2023-10-28,,Pending,Utilities Bill,Others,Invalid Entry,,
+589,14513175,2023-11-09,,Pending,Bank Statements,Others,Invalid Entry,,
+590,47135208,2023-12-28,,Pending,Utilities Bill,AI Generated,Invalid Entry,,
+591,82201221,2023-12-08,,Pending,Bank Statements,Forged,Non-compliance,,
+592,61219795,2023-09-09,2023-09-14,Complete,Other,,,,Accepted
+593,59793124,2023-04-17,,Pending,Utilities Bill,Forged,Incomplete Data,,
+594,84655814,2023-11-16,2023-12-01,Complete,Other,,,,Accepted
+595,10274983,2023-01-07,,Pending,Other,Forged,Invalid Entry,,
+596,57187235,2023-03-09,2023-03-10,Complete,Other,,,,Accepted
+597,53772135,2023-05-02,,Pending,Other,Forged,Non-compliance,,
+598,75917145,2023-12-30,,Pending,Other,Altered,Non-compliance,,
+599,27102110,2023-02-18,2023-03-17,Complete,Bank Statements,,,,Accepted
+600,94838454,2023-05-05,2023-05-27,Complete,Bank Statements,,,,Accepted
+601,64262406,2023-09-09,2023-09-17,Complete,Other,,,,Accepted
+602,49332033,2023-05-27,2023-05-29,Complete,Other,,,,Accepted
+603,16447310,2023-12-30,2024-01-29,Complete,Other,,,,Accepted
+604,36718649,2023-08-01,,Pending,Tenancy Agreement,Forged,Non-compliance,,
+605,27008898,2023-02-13,,Pending,Tenancy Agreement,AI Generated,Non-compliance,,
+606,97886228,2023-12-10,2023-12-19,Complete,Utilities Bill,,,,Accepted
+607,72608716,2023-06-26,2023-07-13,Complete,Utilities Bill,,,,Accepted
+608,96959860,2023-10-01,,Pending,Bank Statements,Altered,Incomplete Data,,
+609,49229707,2023-05-17,,Pending,Tenancy Agreement,Others,Non-compliance,,
+610,40521076,2023-05-18,2023-06-01,Complete,Other,,,,Accepted
+611,15564869,2023-12-20,2024-01-01,Complete,Utilities Bill,,,,Accepted
+612,80395266,2023-07-22,2023-08-14,Complete,Tenancy Agreement,,,,Accepted
+613,62532370,2023-01-22,2023-02-07,Complete,Utilities Bill,,,,Accepted
+614,88621759,2023-10-22,2023-11-07,Complete,Tenancy Agreement,,,,Accepted
+615,21155179,2023-09-05,2023-09-23,Complete,Tenancy Agreement,,,,Accepted
+616,53434091,2023-06-18,,Pending,Utilities Bill,Forged,Invalid Entry,,
+617,78146784,2023-07-07,,Pending,Utilities Bill,AI Generated,Incomplete Data,,
+618,68785598,2023-12-14,2024-01-11,Complete,Utilities Bill,,,,Accepted
+619,35631184,2023-02-19,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+620,84386362,2023-02-02,,Pending,Other,AI Generated,Invalid Entry,,
+621,72592405,2023-03-17,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+622,79904854,2023-11-14,2023-12-02,Complete,Utilities Bill,,,,Accepted
+623,37051247,2023-06-17,2023-06-19,Complete,Bank Statements,,,,Accepted
+624,50347382,2023-07-11,2023-07-21,Complete,Utilities Bill,,,,Accepted
+625,69558833,2023-12-16,2023-12-30,Complete,Utilities Bill,,,,Accepted
+626,29955299,2023-12-28,,Pending,Bank Statements,Forged,Invalid Entry,,
+627,18769770,2023-01-06,2023-01-24,Complete,Bank Statements,,,,Accepted
+628,18483867,2023-10-04,,Pending,Bank Statements,Forged,Non-compliance,,
+629,84807110,2023-03-20,2023-04-07,Complete,Tenancy Agreement,,,,Accepted
+630,27141960,2023-03-28,,Pending,Bank Statements,Others,Invalid Entry,,
+631,64952627,2023-06-12,,Pending,Utilities Bill,Others,Invalid Entry,,
+632,87165726,2023-03-27,2023-04-07,Complete,Other,,,,Accepted
+633,90244976,2023-09-13,2023-09-26,Complete,Other,,,,Accepted
+634,47859698,2023-02-18,,Pending,Other,Forged,Incomplete Data,,
+635,83648064,2023-04-06,,Pending,Utilities Bill,Forged,Non-compliance,,
+636,35467180,2023-09-28,2023-09-29,Complete,Utilities Bill,,,,Accepted
+637,87621518,2023-08-31,,Pending,Bank Statements,Others,Invalid Entry,,
+638,40381278,2023-04-18,,Pending,Bank Statements,AI Generated,Non-compliance,,
+639,94876371,2023-04-25,2023-05-10,Complete,Tenancy Agreement,,,,Accepted
+640,43367347,2023-01-19,,Pending,Other,Forged,Invalid Entry,,
+641,74418285,2023-02-26,,Pending,Other,Altered,Incomplete Data,,
+642,32247553,2023-01-29,2023-02-25,Complete,Bank Statements,,,,Accepted
+643,52574039,2023-10-21,2023-11-09,Complete,Other,,,,Accepted
+644,80885381,2023-04-22,2023-05-01,Complete,Other,,,,Accepted
+645,92847990,2023-12-20,,Pending,Utilities Bill,Others,Incomplete Data,,
+646,30321162,2023-12-09,,Pending,Tenancy Agreement,Others,Invalid Entry,,
+647,55295217,2023-02-24,,Pending,Bank Statements,AI Generated,Incomplete Data,,
+648,58530738,2023-11-25,,Pending,Tenancy Agreement,Altered,Invalid Entry,,
+649,21395644,2023-11-10,2023-11-12,Complete,Utilities Bill,,,,Accepted
+650,97785020,2023-01-28,,Pending,Other,Others,Non-compliance,,
+651,21637964,2023-02-12,2023-02-24,Complete,Utilities Bill,,,,Accepted
+652,54532473,2023-02-14,2023-02-26,Complete,Utilities Bill,,,,Accepted
+653,49599080,2023-07-10,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+654,41333613,2023-01-10,2023-01-24,Complete,Utilities Bill,,,,Accepted
+655,23398565,2023-10-25,2023-11-11,Complete,Tenancy Agreement,,,,Accepted
+656,78047786,2023-04-07,2023-04-16,Complete,Utilities Bill,,,,Accepted
+657,30587337,2023-01-16,2023-01-31,Complete,Utilities Bill,,,,Accepted
+658,17063762,2023-11-29,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+659,13919044,2023-07-25,2023-07-31,Complete,Bank Statements,,,,Accepted
+660,19130254,2023-06-01,2023-06-15,Complete,Tenancy Agreement,,,,Accepted
+661,25767838,2023-03-22,,Pending,Other,AI Generated,Invalid Entry,,
+662,83468507,2023-09-28,2023-09-29,Complete,Utilities Bill,,,,Accepted
+663,81267389,2023-05-18,,Pending,Tenancy Agreement,Others,Invalid Entry,,
+664,49657730,2023-07-04,2023-07-05,Complete,Utilities Bill,,,,Accepted
+665,57826895,2023-08-10,2023-09-01,Complete,Tenancy Agreement,,,,Accepted
+666,63796934,2023-08-25,2023-08-26,Complete,Tenancy Agreement,,,,Accepted
+667,91854619,2023-10-23,2023-11-07,Complete,Other,,,,Accepted
+668,17602269,2023-08-26,,Pending,Utilities Bill,AI Generated,Incomplete Data,,
+669,53552294,2023-02-11,,Pending,Other,Forged,Incomplete Data,,
+670,16239000,2023-12-02,,Pending,Bank Statements,Forged,Invalid Entry,,
+671,27669143,2023-08-20,2023-09-19,Complete,Other,,,,Accepted
+672,77391515,2023-09-07,,Pending,Bank Statements,Altered,Invalid Entry,,
+673,46333622,2023-07-23,,Pending,Tenancy Agreement,Others,Invalid Entry,,
+674,96486577,2023-07-16,2023-08-14,Complete,Bank Statements,,,,Accepted
+675,15437780,2023-08-04,,Pending,Bank Statements,Forged,Incomplete Data,,
+676,55209495,2023-06-26,,Pending,Utilities Bill,Forged,Incomplete Data,,
+677,92225379,2023-08-12,,Pending,Tenancy Agreement,Others,Invalid Entry,,
+678,68047167,2023-10-18,2023-11-03,Complete,Bank Statements,,,,Accepted
+679,30700056,2023-07-05,,Pending,Bank Statements,Others,Non-compliance,,
+680,62170844,2023-10-27,2023-10-28,Complete,Utilities Bill,,,,Accepted
+681,63528744,2023-12-13,,Pending,Other,AI Generated,Non-compliance,,
+682,75858235,2023-09-20,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+683,56700102,2023-01-24,,Pending,Bank Statements,Forged,Invalid Entry,,
+684,48623038,2023-03-09,2023-03-21,Complete,Tenancy Agreement,,,,Accepted
+685,37332662,2023-04-12,,Pending,Utilities Bill,Forged,Incomplete Data,,
+686,30569012,2023-07-11,2023-08-02,Complete,Utilities Bill,,,,Accepted
+687,59921967,2023-09-09,2023-09-18,Complete,Tenancy Agreement,,,,Accepted
+688,40207418,2023-01-15,2023-02-07,Complete,Utilities Bill,,,,Accepted
+689,78819208,2023-12-06,,Pending,Utilities Bill,Altered,Non-compliance,,
+690,58678984,2023-08-05,2023-08-11,Complete,Utilities Bill,,,,Accepted
+691,14834984,2023-05-21,2023-06-05,Complete,Bank Statements,,,,Accepted
+692,52714864,2023-05-30,,Pending,Tenancy Agreement,Forged,Non-compliance,,
+693,78198717,2023-02-14,2023-03-14,Complete,Other,,,,Accepted
+694,59574791,2023-02-13,2023-02-14,Complete,Other,,,,Accepted
+695,37716544,2023-07-11,,Pending,Other,Forged,Incomplete Data,,
+696,63276608,2023-10-26,2023-11-24,Complete,Bank Statements,,,,Accepted
+697,69703112,2023-01-14,,Pending,Tenancy Agreement,Forged,Non-compliance,,
+698,94640446,2023-09-13,,Pending,Other,Forged,Incomplete Data,,
+699,15158790,2023-12-05,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+700,99420457,2023-10-21,2023-11-19,Complete,Utilities Bill,,,,Accepted
+701,44098162,2023-06-08,,Pending,Utilities Bill,Others,Invalid Entry,,
+702,76651144,2023-12-04,2023-12-18,Complete,Other,,,,Accepted
+703,51567296,2023-12-20,,Pending,Tenancy Agreement,Forged,Invalid Entry,,
+704,69083742,2023-05-23,,Pending,Bank Statements,AI Generated,Non-compliance,,
+705,76038722,2023-10-04,2023-10-05,Complete,Other,,,,Accepted
+706,25320608,2023-10-10,,Pending,Utilities Bill,Altered,Invalid Entry,,
+707,99717396,2023-11-01,2023-11-08,Complete,Tenancy Agreement,,,,Accepted
+708,84836920,2023-08-16,,Pending,Bank Statements,Others,Invalid Entry,,
+709,66301628,2023-03-23,,Pending,Bank Statements,Forged,Invalid Entry,,
+710,93265994,2023-04-08,,Pending,Tenancy Agreement,AI Generated,Non-compliance,,
+711,41740102,2023-07-26,,Pending,Bank Statements,Altered,Incomplete Data,,
+712,71882893,2023-08-06,,Pending,Other,Forged,Invalid Entry,,
+713,85060236,2023-09-02,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+714,56510779,2023-07-19,,Pending,Utilities Bill,Altered,Invalid Entry,,
+715,25921008,2023-09-06,2023-09-11,Complete,Utilities Bill,,,,Accepted
+716,68071173,2023-12-28,,Pending,Utilities Bill,Altered,Non-compliance,,
+717,32871240,2023-05-01,,Pending,Utilities Bill,Forged,Invalid Entry,,
+718,66368671,2023-09-17,,Pending,Bank Statements,Altered,Invalid Entry,,
+719,33285995,2023-05-15,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+720,44929768,2023-04-10,2023-04-22,Complete,Bank Statements,,,,Accepted
+721,53422788,2023-11-28,,Pending,Bank Statements,Altered,Invalid Entry,,
+722,44879696,2023-11-12,2023-12-03,Complete,Other,,,,Accepted
+723,42839216,2023-03-24,,Pending,Utilities Bill,Others,Incomplete Data,,
+724,70381002,2023-04-29,2023-05-01,Complete,Bank Statements,,,,Accepted
+725,86390850,2023-06-17,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+726,80662682,2023-08-24,2023-09-09,Complete,Tenancy Agreement,,,,Accepted
+727,46586455,2023-07-06,2023-07-29,Complete,Utilities Bill,,,,Accepted
+728,69261837,2023-08-03,,Pending,Other,Altered,Non-compliance,,
+729,42779155,2023-05-07,,Pending,Other,Altered,Incomplete Data,,
+730,47521225,2023-03-06,2023-03-25,Complete,Utilities Bill,,,,Accepted
+731,92477693,2023-08-30,2023-09-22,Complete,Tenancy Agreement,,,,Accepted
+732,34918728,2023-01-09,2023-02-04,Complete,Tenancy Agreement,,,,Accepted
+733,96027653,2023-12-29,2024-01-03,Complete,Tenancy Agreement,,,,Accepted
+734,24509903,2023-07-17,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+735,35942357,2023-08-09,2023-09-02,Complete,Other,,,,Accepted
+736,57744647,2023-11-19,,Pending,Utilities Bill,Altered,Invalid Entry,,
+737,14539078,2023-04-20,,Pending,Bank Statements,Others,Incomplete Data,,
+738,51016883,2023-04-14,2023-05-08,Complete,Bank Statements,,,,Accepted
+739,70303641,2023-12-29,,Pending,Bank Statements,AI Generated,Invalid Entry,,
+740,18918673,2023-08-18,2023-09-12,Complete,Bank Statements,,,,Accepted
+741,50994214,2023-11-27,2023-12-05,Complete,Utilities Bill,,,,Accepted
+742,52184063,2023-04-28,,Pending,Tenancy Agreement,Others,Invalid Entry,,
+743,47311661,2023-06-13,,Pending,Tenancy Agreement,Others,Non-compliance,,
+744,93316335,2023-01-19,2023-02-08,Complete,Tenancy Agreement,,,,Accepted
+745,23830652,2023-02-21,2023-03-16,Complete,Bank Statements,,,,Accepted
+746,35658599,2023-11-04,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+747,96294206,2023-04-11,2023-05-02,Complete,Bank Statements,,,,Accepted
+748,69686361,2023-03-07,,Pending,Bank Statements,Others,Invalid Entry,,
+749,18713166,2023-08-24,,Pending,Other,Others,Non-compliance,,
+750,31986287,2023-05-08,2023-05-12,Complete,Other,,,,Accepted
+751,51504106,2023-09-16,2023-10-16,Complete,Other,,,,Accepted
+752,23535820,2023-09-07,2023-09-18,Complete,Other,,,,Accepted
+753,37333417,2023-11-20,,Pending,Bank Statements,AI Generated,Invalid Entry,,
+754,35710853,2023-03-17,2023-03-26,Complete,Bank Statements,,,,Accepted
+755,51937540,2023-02-17,2023-03-09,Complete,Tenancy Agreement,,,,Accepted
+756,69125647,2023-02-10,2023-02-13,Complete,Bank Statements,,,,Accepted
+757,71480684,2023-04-23,,Pending,Tenancy Agreement,Forged,Invalid Entry,,
+758,84614471,2023-12-13,,Pending,Tenancy Agreement,Others,Non-compliance,,
+759,19587132,2023-09-04,,Pending,Other,Forged,Incomplete Data,,
+760,32941540,2023-06-10,2023-06-25,Complete,Utilities Bill,,,,Accepted
+761,99811323,2023-04-21,,Pending,Tenancy Agreement,Forged,Invalid Entry,,
+762,97055902,2023-04-05,2023-04-14,Complete,Utilities Bill,,,,Accepted
+763,70695568,2023-09-01,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+764,82621665,2023-03-07,,Pending,Other,Altered,Non-compliance,,
+765,68792549,2023-08-01,,Pending,Other,AI Generated,Non-compliance,,
+766,82806359,2023-04-19,2023-05-03,Complete,Utilities Bill,,,,Accepted
+767,14130754,2023-02-01,,Pending,Utilities Bill,Altered,Invalid Entry,,
+768,35290876,2023-09-15,,Pending,Utilities Bill,Others,Incomplete Data,,
+769,27435991,2023-04-21,2023-04-30,Complete,Tenancy Agreement,,,,Accepted
+770,35324503,2023-03-19,2023-04-18,Complete,Bank Statements,,,,Accepted
+771,53549367,2023-09-11,2023-10-04,Complete,Tenancy Agreement,,,,Accepted
+772,36032361,2023-11-11,2023-11-20,Complete,Tenancy Agreement,,,,Accepted
+773,35688053,2023-06-04,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+774,75115255,2023-01-16,,Pending,Utilities Bill,Others,Non-compliance,,
+775,37271472,2023-08-03,2023-08-13,Complete,Utilities Bill,,,,Accepted
+776,79328783,2023-03-31,2023-04-25,Complete,Bank Statements,,,,Accepted
+777,41455356,2023-07-30,,Pending,Other,Altered,Invalid Entry,,
+778,49882141,2023-07-30,,Pending,Other,Altered,Non-compliance,,
+779,89724370,2023-12-28,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+780,49582528,2023-10-24,,Pending,Utilities Bill,Others,Incomplete Data,,
+781,54748731,2023-04-16,,Pending,Utilities Bill,Altered,Incomplete Data,,
+782,49254077,2023-10-26,,Pending,Tenancy Agreement,Altered,Incomplete Data,,
+783,75929338,2023-07-25,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+784,89578572,2023-07-25,2023-07-26,Complete,Bank Statements,,,,Accepted
+785,84468572,2023-01-01,2023-01-23,Complete,Utilities Bill,,,,Accepted
+786,54076305,2023-06-03,,Pending,Bank Statements,Forged,Incomplete Data,,
+787,39855420,2023-04-14,,Pending,Utilities Bill,Others,Incomplete Data,,
+788,65886306,2023-11-26,,Pending,Tenancy Agreement,Altered,Incomplete Data,,
+789,58396409,2023-05-22,2023-05-27,Complete,Bank Statements,,,,Accepted
+790,65879191,2023-12-30,2024-01-21,Complete,Other,,,,Accepted
+791,61915388,2023-07-27,,Pending,Tenancy Agreement,Forged,Invalid Entry,,
+792,57568855,2023-05-29,,Pending,Bank Statements,AI Generated,Non-compliance,,
+793,80450968,2023-07-15,,Pending,Other,AI Generated,Invalid Entry,,
+794,14248412,2023-11-20,,Pending,Tenancy Agreement,Forged,Incomplete Data,,
+795,87350810,2023-01-30,,Pending,Utilities Bill,Altered,Incomplete Data,,
+796,63759160,2023-11-24,2023-12-04,Complete,Bank Statements,,,,Accepted
+797,34365255,2023-03-04,2023-03-10,Complete,Bank Statements,,,,Accepted
+798,37754465,2023-12-16,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+799,96336123,2023-04-21,,Pending,Utilities Bill,Forged,Incomplete Data,,
+800,53381452,2023-05-26,,Pending,Bank Statements,AI Generated,Invalid Entry,,
+801,13156294,2023-04-21,,Pending,Bank Statements,Forged,Invalid Entry,,
+802,84311815,2023-09-01,2023-09-13,Complete,Utilities Bill,,,,Accepted
+803,20046242,2023-12-11,2024-01-07,Complete,Tenancy Agreement,,,,Accepted
+804,72438259,2023-03-10,2023-03-24,Complete,Other,,,,Accepted
+805,46323093,2023-08-20,2023-09-03,Complete,Tenancy Agreement,,,,Accepted
+806,62305507,2023-11-11,,Pending,Other,Altered,Incomplete Data,,
+807,80693667,2023-08-01,2023-08-29,Complete,Tenancy Agreement,,,,Accepted
+808,59576671,2023-03-23,2023-04-22,Complete,Utilities Bill,,,,Accepted
+809,30018354,2023-10-14,,Pending,Bank Statements,Altered,Non-compliance,,
+810,37829762,2023-04-30,2023-05-24,Complete,Bank Statements,,,,Accepted
+811,38303551,2023-06-27,2023-07-26,Complete,Tenancy Agreement,,,,Accepted
+812,78887829,2023-07-20,2023-08-01,Complete,Other,,,,Accepted
+813,80641981,2023-08-02,,Pending,Utilities Bill,AI Generated,Incomplete Data,,
+814,43473852,2023-09-07,2023-10-01,Complete,Tenancy Agreement,,,,Accepted
+815,52799233,2023-01-18,,Pending,Utilities Bill,Forged,Non-compliance,,
+816,12401100,2023-08-26,2023-09-02,Complete,Tenancy Agreement,,,,Accepted
+817,81983681,2023-05-20,,Pending,Tenancy Agreement,Others,Non-compliance,,
+818,61136268,2023-01-26,2023-02-02,Complete,Utilities Bill,,,,Accepted
+819,29202056,2023-09-22,2023-10-10,Complete,Bank Statements,,,,Accepted
+820,64538399,2023-11-29,2023-12-19,Complete,Utilities Bill,,,,Accepted
+821,40633197,2023-10-28,,Pending,Other,Forged,Incomplete Data,,
+822,76424616,2023-04-12,2023-04-30,Complete,Other,,,,Accepted
+823,23319311,2023-05-01,2023-05-09,Complete,Utilities Bill,,,,Accepted
+824,89031934,2023-08-05,,Pending,Utilities Bill,Forged,Invalid Entry,,
+825,93657007,2023-08-07,,Pending,Other,Altered,Non-compliance,,
+826,55373835,2023-03-17,,Pending,Other,Others,Invalid Entry,,
+827,69815780,2023-04-07,,Pending,Bank Statements,AI Generated,Non-compliance,,
+828,41114464,2023-03-25,2023-04-04,Complete,Other,,,,Accepted
+829,79299970,2023-07-04,2023-07-23,Complete,Utilities Bill,,,,Accepted
+830,18457767,2023-11-09,2023-11-16,Complete,Utilities Bill,,,,Accepted
+831,40627133,2023-04-24,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+832,61118178,2023-01-23,,Pending,Tenancy Agreement,Altered,Incomplete Data,,
+833,92839483,2023-03-20,2023-03-21,Complete,Other,,,,Accepted
+834,88626505,2023-10-28,2023-11-06,Complete,Utilities Bill,,,,Accepted
+835,41151525,2023-05-06,,Pending,Tenancy Agreement,Forged,Invalid Entry,,
+836,84577055,2023-04-11,,Pending,Bank Statements,Forged,Invalid Entry,,
+837,38323285,2023-02-22,2023-03-01,Complete,Utilities Bill,,,,Accepted
+838,25380361,2023-01-31,,Pending,Bank Statements,Altered,Incomplete Data,,
+839,68988402,2023-01-25,2023-02-11,Complete,Tenancy Agreement,,,,Accepted
+840,61899925,2023-08-01,2023-08-03,Complete,Utilities Bill,,,,Accepted
+841,48466473,2023-11-02,2023-12-02,Complete,Other,,,,Accepted
+842,23327288,2023-04-07,,Pending,Other,Altered,Incomplete Data,,
+843,55203816,2023-07-20,,Pending,Bank Statements,Others,Invalid Entry,,
+844,57654608,2023-04-10,,Pending,Tenancy Agreement,AI Generated,Non-compliance,,
+845,63696762,2023-03-19,2023-04-06,Complete,Tenancy Agreement,,,,Accepted
+846,31777978,2023-02-02,2023-02-22,Complete,Utilities Bill,,,,Accepted
+847,82793817,2023-04-08,2023-04-11,Complete,Other,,,,Accepted
+848,84633323,2023-01-16,2023-02-02,Complete,Bank Statements,,,,Accepted
+849,97374175,2023-10-01,,Pending,Other,AI Generated,Incomplete Data,,
+850,98459274,2023-03-31,,Pending,Tenancy Agreement,Others,Incomplete Data,,
+851,43322092,2023-01-17,2023-01-19,Complete,Tenancy Agreement,,,,Accepted
+852,74150114,2023-09-11,2023-09-27,Complete,Utilities Bill,,,,Accepted
+853,39134891,2023-05-18,,Pending,Utilities Bill,Others,Non-compliance,,
+854,71648547,2023-04-23,2023-04-25,Complete,Bank Statements,,,,Accepted
+855,41958904,2023-08-24,2023-09-19,Complete,Tenancy Agreement,,,,Accepted
+856,31191020,2023-12-14,2023-12-25,Complete,Bank Statements,,,,Accepted
+857,36619903,2023-04-23,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+858,14853841,2023-06-13,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+859,32002916,2023-07-07,,Pending,Tenancy Agreement,Altered,Invalid Entry,,
+860,70566517,2023-10-23,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+861,30902143,2023-07-19,2023-07-26,Complete,Bank Statements,,,,Accepted
+862,22396745,2023-10-12,2023-11-03,Complete,Utilities Bill,,,,Accepted
+863,30809264,2023-10-24,,Pending,Tenancy Agreement,Others,Incomplete Data,,
+864,29181079,2023-07-21,2023-08-13,Complete,Tenancy Agreement,,,,Accepted
+865,53186554,2023-09-06,,Pending,Other,Forged,Incomplete Data,,
+866,96896107,2023-03-03,2023-03-27,Complete,Tenancy Agreement,,,,Accepted
+867,12857160,2023-02-15,2023-02-21,Complete,Bank Statements,,,,Accepted
+868,91516651,2023-09-15,2023-10-14,Complete,Tenancy Agreement,,,,Accepted
+869,81374414,2023-02-16,,Pending,Bank Statements,Others,Incomplete Data,,
+870,10597803,2023-03-05,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+871,49586360,2023-11-16,,Pending,Other,Forged,Incomplete Data,,
+872,59478227,2023-01-20,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+873,40975147,2023-06-05,,Pending,Other,Forged,Invalid Entry,,
+874,92103735,2023-06-29,2023-07-08,Complete,Tenancy Agreement,,,,Accepted
+875,97063135,2023-11-05,,Pending,Other,Others,Non-compliance,,
+876,51100258,2023-05-28,,Pending,Utilities Bill,AI Generated,Incomplete Data,,
+877,57304402,2023-05-18,2023-05-22,Complete,Tenancy Agreement,,,,Accepted
+878,47797851,2023-06-05,,Pending,Bank Statements,Altered,Non-compliance,,
+879,68507230,2023-01-31,,Pending,Utilities Bill,Others,Incomplete Data,,
+880,80016966,2023-03-11,2023-04-06,Complete,Bank Statements,,,,Accepted
+881,53150648,2023-10-05,2023-10-31,Complete,Other,,,,Accepted
+882,38469169,2023-11-26,,Pending,Bank Statements,Others,Invalid Entry,,
+883,91199470,2023-06-10,,Pending,Bank Statements,Forged,Invalid Entry,,
+884,30775684,2023-05-31,2023-06-11,Complete,Bank Statements,,,,Accepted
+885,89365037,2023-04-07,,Pending,Other,Forged,Invalid Entry,,
+886,80862062,2023-12-30,,Pending,Bank Statements,Forged,Invalid Entry,,
+887,57955705,2023-11-03,2023-11-28,Complete,Bank Statements,,,,Accepted
+888,16971202,2023-09-19,2023-10-16,Complete,Utilities Bill,,,,Accepted
+889,40792031,2023-11-25,,Pending,Bank Statements,Others,Invalid Entry,,
+890,54590729,2023-04-11,,Pending,Bank Statements,Others,Incomplete Data,,
+891,88194622,2023-12-03,2023-12-22,Complete,Other,,,,Accepted
+892,55919766,2023-06-23,,Pending,Bank Statements,Forged,Non-compliance,,
+893,87228267,2023-06-03,2023-06-29,Complete,Other,,,,Accepted
+894,18224914,2023-10-23,,Pending,Utilities Bill,Forged,Incomplete Data,,
+895,38256821,2023-03-31,2023-04-12,Complete,Other,,,,Accepted
+896,92909834,2023-11-25,2023-12-11,Complete,Bank Statements,,,,Accepted
+897,73656501,2023-03-08,2023-03-28,Complete,Bank Statements,,,,Accepted
+898,70612388,2023-04-13,2023-05-09,Complete,Bank Statements,,,,Accepted
+899,47578634,2023-08-10,,Pending,Other,Others,Invalid Entry,,
+900,32652087,2023-01-25,,Pending,Bank Statements,AI Generated,Non-compliance,,
+901,20171223,2023-08-06,2023-08-14,Complete,Bank Statements,,,,Accepted
+902,27653365,2023-06-21,,Pending,Other,Others,Invalid Entry,,
+903,65280572,2023-09-14,2023-10-01,Complete,Bank Statements,,,,Accepted
+904,45150942,2023-04-14,2023-05-13,Complete,Utilities Bill,,,,Accepted
+905,68372415,2023-12-07,2024-01-06,Complete,Tenancy Agreement,,,,Accepted
+906,49359371,2023-06-16,2023-07-11,Complete,Other,,,,Accepted
+907,43572370,2023-10-05,2023-10-27,Complete,Other,,,,Accepted
+908,89997480,2023-09-18,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+909,52055909,2023-03-13,,Pending,Other,Altered,Invalid Entry,,
+910,88170458,2023-10-05,,Pending,Bank Statements,Forged,Invalid Entry,,
+911,60205832,2023-08-18,,Pending,Other,Forged,Non-compliance,,
+912,41995041,2023-01-24,2023-02-03,Complete,Other,,,,Accepted
+913,54413691,2023-01-06,,Pending,Bank Statements,Altered,Non-compliance,,
+914,73598293,2023-02-09,2023-02-23,Complete,Bank Statements,,,,Accepted
+915,99354613,2023-12-17,2024-01-06,Complete,Other,,,,Accepted
+916,13607704,2023-10-30,2023-11-20,Complete,Other,,,,Accepted
+917,14461227,2023-08-17,,Pending,Other,Altered,Incomplete Data,,
+918,20199077,2023-12-07,2023-12-10,Complete,Utilities Bill,,,,Accepted
+919,86519718,2023-02-09,2023-02-21,Complete,Utilities Bill,,,,Accepted
+920,86636108,2023-05-23,,Pending,Bank Statements,Others,Invalid Entry,,
+921,91493089,2023-01-26,,Pending,Bank Statements,Altered,Invalid Entry,,
+922,60095680,2023-09-26,,Pending,Bank Statements,Others,Invalid Entry,,
+923,46134489,2023-09-19,2023-10-01,Complete,Bank Statements,,,,Accepted
+924,97949119,2023-08-15,,Pending,Other,Forged,Non-compliance,,
+925,78600186,2023-05-17,,Pending,Bank Statements,Altered,Invalid Entry,,
+926,61151269,2023-11-11,,Pending,Other,Forged,Non-compliance,,
+927,15223594,2023-10-08,2023-10-12,Complete,Tenancy Agreement,,,,Accepted
+928,55705150,2023-04-09,,Pending,Bank Statements,Forged,Incomplete Data,,
+929,18496387,2023-04-01,2023-04-12,Complete,Tenancy Agreement,,,,Accepted
+930,39648327,2023-07-13,,Pending,Tenancy Agreement,Others,Non-compliance,,
+931,80625493,2023-02-13,,Pending,Bank Statements,AI Generated,Incomplete Data,,
+932,36729995,2023-07-30,2023-08-10,Complete,Bank Statements,,,,Accepted
+933,46331553,2023-08-13,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+934,68571789,2023-10-13,,Pending,Other,AI Generated,Invalid Entry,,
+935,58542785,2023-11-24,,Pending,Utilities Bill,Altered,Invalid Entry,,
+936,18244851,2023-02-15,2023-02-16,Complete,Bank Statements,,,,Accepted
+937,52094975,2023-01-18,,Pending,Tenancy Agreement,Forged,Non-compliance,,
+938,86897465,2023-03-08,,Pending,Utilities Bill,Others,Invalid Entry,,
+939,12285898,2023-09-09,,Pending,Utilities Bill,AI Generated,Non-compliance,,
+940,26321766,2023-03-12,2023-04-03,Complete,Other,,,,Accepted
+941,53656006,2023-02-26,2023-03-13,Complete,Utilities Bill,,,,Accepted
+942,67082113,2023-09-15,,Pending,Other,Altered,Incomplete Data,,
+943,54413980,2023-09-10,2023-10-03,Complete,Tenancy Agreement,,,,Accepted
+944,98224252,2023-07-03,2023-07-04,Complete,Other,,,,Accepted
+945,72991345,2023-11-05,2023-11-28,Complete,Bank Statements,,,,Accepted
+946,19359370,2023-09-06,,Pending,Other,Forged,Invalid Entry,,
+947,23342307,2023-08-10,,Pending,Bank Statements,Forged,Invalid Entry,,
+948,82814488,2023-04-03,2023-04-14,Complete,Tenancy Agreement,,,,Accepted
+949,78834331,2023-12-15,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+950,68754944,2023-08-19,2023-09-12,Complete,Bank Statements,,,,Accepted
+951,48689494,2023-02-14,,Pending,Utilities Bill,Others,Non-compliance,,
+952,77847623,2023-05-04,2023-05-10,Complete,Bank Statements,,,,Accepted
+953,21685510,2023-02-16,,Pending,Other,Forged,Incomplete Data,,
+954,88233965,2023-08-07,,Pending,Other,AI Generated,Incomplete Data,,
+955,35566553,2023-03-28,,Pending,Tenancy Agreement,Others,Non-compliance,,
+956,36656645,2023-05-16,2023-05-30,Complete,Utilities Bill,,,,Accepted
+957,34145622,2023-03-08,2023-03-23,Complete,Tenancy Agreement,,,,Accepted
+958,68362075,2023-06-18,2023-06-23,Complete,Utilities Bill,,,,Accepted
+959,88635110,2023-05-03,2023-05-08,Complete,Bank Statements,,,,Accepted
+960,94162016,2023-02-07,,Pending,Utilities Bill,Altered,Invalid Entry,,
+961,44214726,2023-04-02,2023-04-21,Complete,Other,,,,Accepted
+962,33056715,2023-04-22,2023-04-24,Complete,Other,,,,Accepted
+963,91462554,2023-05-01,2023-05-17,Complete,Utilities Bill,,,,Accepted
+964,75345719,2023-01-21,,Pending,Utilities Bill,Others,Non-compliance,,
+965,24813249,2023-11-23,2023-12-13,Complete,Utilities Bill,,,,Accepted
+966,30261450,2023-11-13,2023-11-27,Complete,Other,,,,Accepted
+967,56249720,2023-04-07,,Pending,Tenancy Agreement,AI Generated,Non-compliance,,
+968,19189500,2023-03-22,2023-04-17,Complete,Tenancy Agreement,,,,Accepted
+969,81466864,2023-06-15,,Pending,Tenancy Agreement,AI Generated,Incomplete Data,,
+970,61860274,2023-09-20,,Pending,Utilities Bill,Others,Non-compliance,,
+971,95904243,2023-10-25,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+972,27682191,2023-02-09,,Pending,Utilities Bill,Others,Non-compliance,,
+973,86577344,2023-09-18,,Pending,Utilities Bill,Others,Invalid Entry,,
+974,24239937,2023-05-24,,Pending,Utilities Bill,AI Generated,Invalid Entry,,
+975,37100299,2023-10-20,2023-11-12,Complete,Other,,,,Accepted
+976,28156962,2023-06-23,2023-07-12,Complete,Other,,,,Accepted
+977,14529191,2023-06-13,,Pending,Tenancy Agreement,Others,Incomplete Data,,
+978,91721369,2023-12-23,,Pending,Tenancy Agreement,AI Generated,Invalid Entry,,
+979,35553950,2023-09-30,,Pending,Bank Statements,AI Generated,Invalid Entry,,
+980,47527544,2023-07-27,2023-08-23,Complete,Tenancy Agreement,,,,Accepted
+981,65048305,2023-06-25,2023-07-21,Complete,Bank Statements,,,,Accepted
+982,19368273,2023-09-05,2023-09-18,Complete,Utilities Bill,,,,Accepted
+983,68267904,2023-06-11,2023-06-14,Complete,Tenancy Agreement,,,,Accepted
+984,66560479,2023-01-30,2023-02-13,Complete,Bank Statements,,,,Accepted
+985,40305594,2023-12-05,,Pending,Tenancy Agreement,Forged,Incomplete Data,,
+986,48414961,2023-11-10,,Pending,Other,Others,Non-compliance,,
+987,33839633,2023-10-29,2023-10-30,Complete,Bank Statements,,,,Accepted
+988,39586079,2023-10-28,2023-11-06,Complete,Utilities Bill,,,,Accepted
+989,66408174,2023-03-05,2023-03-20,Complete,Utilities Bill,,,,Accepted
+990,46974524,2023-09-11,,Pending,Tenancy Agreement,Altered,Non-compliance,,
+991,41640117,2023-06-16,,Pending,Tenancy Agreement,Altered,Incomplete Data,,
+992,25635420,2023-08-12,2023-08-25,Complete,Utilities Bill,,,,Accepted
+993,21208919,2023-03-11,2023-04-08,Complete,Tenancy Agreement,,,,Accepted
+994,73562850,2023-06-09,2023-06-28,Complete,Utilities Bill,,,,Accepted
+995,52724754,2023-09-24,,Pending,Utilities Bill,Others,Invalid Entry,,
+996,43546923,2023-12-14,,Pending,Other,Others,Non-compliance,,
+997,49643147,2023-08-16,2023-09-06,Complete,Bank Statements,,,,Accepted
+998,10623918,2023-04-10,2023-04-25,Complete,Bank Statements,,,,Accepted
+999,95526136,2023-03-16,,Pending,Other,Altered,Invalid Entry,,
+1000,49280931,2023-10-30,2023-11-04,Complete,Utilities Bill,,,,Accepted
